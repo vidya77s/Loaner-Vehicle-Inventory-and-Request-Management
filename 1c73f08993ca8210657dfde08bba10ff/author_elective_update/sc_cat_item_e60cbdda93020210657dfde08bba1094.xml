@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="DELETE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category/>
+        <checked_out>false</checked_out>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Request Loaner Vehicle</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_save_as_draft>false</no_save_as_draft>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=e60cbdda93020210657dfde08bba1094&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <request_method/>
+        <roles/>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template/>
+        <short_description>Request Loaner Vehicle</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state>published</state>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-11 00:58:51</sys_created_on>
+        <sys_id>e60cbdda93020210657dfde08bba1094</sys_id>
+        <sys_mod_count>19</sys_mod_count>
+        <sys_name>Request Loaner Vehicle</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1053882_lva">1c73f08993ca8210657dfde08bba10ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">1c73f08993ca8210657dfde08bba10ff</sys_scope>
+        <sys_update_name>sc_cat_item_e60cbdda93020210657dfde08bba1094</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-12 04:13:22</sys_updated_on>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <version>19</version>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item>
+    <sys_translated_text action="DELETE" query="documentkey=e60cbdda93020210657dfde08bba1094"/>
+    <fx_price action="DELETE" query="id=e60cbdda93020210657dfde08bba1094"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>e60cbdda93020210657dfde08bba1094</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-11 00:58:51</sys_created_on>
+        <sys_id>d0529a9693820210657dfde08bba10f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-11 00:58:51</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>e60cbdda93020210657dfde08bba1094</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-11 00:58:51</sys_created_on>
+        <sys_id>98529a9693820210657dfde08bba10f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-11 00:58:51</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request and Inventory">1c73f08993ca8210657dfde08bba10ff</application>
+        <file_path/>
+        <instance_id>26336382dbf67d90b1eb9027c5961936</instance_id>
+        <instance_name>dev230186</instance_name>
+        <name>sc_cat_item_e60cbdda93020210657dfde08bba1094</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item"><sc_cat_item action="INSERT_OR_UPDATE"><access_type>restricted</access_type><active>true</active><availability>on_desktop</availability><billable>false</billable><category/><checked_out>false</checked_out><cost>0</cost><custom_cart/><delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan><delivery_plan_script/><delivery_time>1970-01-03 00:00:00</delivery_time><description/><display_price_property>non_zero</display_price_property><entitlement_script/><flow_designer_flow/><fulfillment_automation_level>unspecified</fulfillment_automation_level><group/><hide_sp>false</hide_sp><icon/><ignore_price>true</ignore_price><image/><location/><mandatory_attachment>false</mandatory_attachment><meta/><mobile_hide_price>false</mobile_hide_price><mobile_picture/><mobile_picture_type>use_desktop_picture</mobile_picture_type><model/><name>Request Loaner Vehicle</name><no_attachment_v2>false</no_attachment_v2><no_cart>false</no_cart><no_cart_v2>false</no_cart_v2><no_delivery_time_v2>false</no_delivery_time_v2><no_order>false</no_order><no_order_now>false</no_order_now><no_proceed_checkout>false</no_proceed_checkout><no_quantity>false</no_quantity><no_quantity_v2>false</no_quantity_v2><no_save_as_draft>false</no_save_as_draft><no_search>false</no_search><no_wishlist_v2>false</no_wishlist_v2><omit_price>false</omit_price><order>0</order><ordered_item_link/><owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner><picture/><preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=e60cbdda93020210657dfde08bba1094&amp;sysparm_preview=true", "summary");</preview><price>0</price><published_ref/><recurring_frequency/><recurring_price>0</recurring_price><request_method/><roles/><sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs><sc_ic_item_staging/><sc_ic_version/><sc_template/><short_description>Request Loaner Vehicle</short_description><show_variable_help_on_load>false</show_variable_help_on_load><start_closed>false</start_closed><state>published</state><sys_class_name>sc_cat_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-11 00:58:51</sys_created_on><sys_id>e60cbdda93020210657dfde08bba1094</sys_id><sys_mod_count>19</sys_mod_count><sys_name>Request Loaner Vehicle</sys_name><sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1053882_lva">1c73f08993ca8210657dfde08bba10ff</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle Request and Inventory">1c73f08993ca8210657dfde08bba10ff</sys_scope><sys_update_name>sc_cat_item_e60cbdda93020210657dfde08bba1094</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-12 04:13:22</sys_updated_on><taxonomy_topic/><template/><template_manager_roles/><type>item</type><use_sc_layout>true</use_sc_layout><vendor/><version>19</version><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><workflow/></sc_cat_item><sys_translated_text action="delete_multiple" query="documentkey=e60cbdda93020210657dfde08bba1094"/><fx_price action="delete_multiple" query="id=e60cbdda93020210657dfde08bba1094"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>price</field><id>e60cbdda93020210657dfde08bba1094</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-11 00:58:51</sys_created_on><sys_id>d0529a9693820210657dfde08bba10f1</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-11 00:58:51</sys_updated_on><table>sc_cat_item</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>recurring_price</field><id>e60cbdda93020210657dfde08bba1094</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-11 00:58:51</sys_created_on><sys_id>98529a9693820210657dfde08bba10f2</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-11 00:58:51</sys_updated_on><table>sc_cat_item</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>-136143326</payload_hash>
+        <record_name>Request Loaner Vehicle</record_name>
+        <reverted_from/>
+        <source>3268c83293ce4210657dfde08bba10c7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-12 04:13:22</sys_created_on>
+        <sys_id>17680c3293ce4210657dfde08bba1073</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f6b015de10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-12 04:13:22</sys_updated_on>
+        <type>Catalog Item</type>
+        <update_guid>1b680c32d5ce4210c9fe1ed009027a72</update_guid>
+        <update_guid_history>1b680c32d5ce4210c9fe1ed009027a72:-136143326,38e1bbe28b4e42109c820d221d1ce73c:-147735003,163de72e710e421064ac8f7b8a52892b:-2059113756,b869e766fd0e421004faefd8c676469d:324474787,04c6a366ec0e42106f5d604b706d8807:-1586903966,7976e366260e421005b5094196435eda:796684577,bd46af26250e4210a2912efcd5a00af2:-1114694176,d0166b26f30e42102dd868c928b5390f:1268894367,e7e567267c0e4210ac4e30ff5fafea5e:-642484386,3bd5a3262a0e4210d5871040e6d6eac0:1741104157,58c36b62530e4210a02203c1fc52d34e:1349109071,1253ef22280e42101c9799ed0054aa9a:-562269682,f1e0ef6eadca4210d677c0bfd870fd7f:1821318861,f480a76efcca42100bc88a16a1e22ed8:-90059892,a460e36e0cca4210d25fc0d859103108:-2001438645,e940236eb7ca42105238de79f3eaaf6b:382149898,33206f2ea1ca42108fcd21b8f8194d91:-1529228855,bc2d5f2a88ca421006d2e63998b03299:854359688,5052da966f8202106616bc9cdbc73a10:-1057019065,5452da96e98202103327d40d8a2f6f01:-1235124909</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Request Loaner Vehicle">cca980f293ce4210657dfde08bba1063</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-12 04:18:37</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item">sc_cat_item</sys_db_object>
+        <sys_id>39f3f0eb4eb146488c0274bc30920059</sys_id>
+        <sys_metadata>e60cbdda93020210657dfde08bba1094</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request Loaner Vehicle</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1053882_lva">1c73f08993ca8210657dfde08bba10ff</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">1c73f08993ca8210657dfde08bba10ff</sys_scope>
+        <sys_scope_delete display_value="">34ed4b113fec427e8f44913227c40ce4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_e60cbdda93020210657dfde08bba1094</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_e60cbdda93020210657dfde08bba1094">17680c3293ce4210657dfde08bba1073</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-12 04:18:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

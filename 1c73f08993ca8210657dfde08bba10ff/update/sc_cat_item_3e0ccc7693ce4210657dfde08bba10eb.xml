@@ -4,8 +4,8 @@
         <active>true</active>
         <availability>on_desktop</availability>
         <billable>false</billable>
-        <category/>
-        <checked_out>false</checked_out>
+        <category display_value="Loaner Vehicle">12cc7d1e93020210657dfde08bba1048</category>
+        <checked_out/>
         <cost>0</cost>
         <custom_cart/>
         <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
@@ -46,7 +46,7 @@
         <ordered_item_link/>
         <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
         <picture/>
-        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=e60cbdda93020210657dfde08bba1094&amp;sysparm_preview=true", "summary");</preview>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=3e0ccc7693ce4210657dfde08bba10eb&amp;sysparm_preview=true", "summary");</preview>
         <price>0</price>
         <published_ref/>
         <recurring_frequency/>
@@ -60,47 +60,47 @@
         <short_description>Request Loaner Vehicle</short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
-        <state>published</state>
+        <state/>
         <sys_class_name>sc_cat_item</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-05-11 00:58:51</sys_created_on>
-        <sys_id>e60cbdda93020210657dfde08bba1094</sys_id>
-        <sys_mod_count>19</sys_mod_count>
+        <sys_created_on>2024-05-12 04:32:58</sys_created_on>
+        <sys_id>3e0ccc7693ce4210657dfde08bba10eb</sys_id>
+        <sys_mod_count>13</sys_mod_count>
         <sys_name>Request Loaner Vehicle</sys_name>
         <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1053882_lva">1c73f08993ca8210657dfde08bba10ff</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Vehicle Request and Inventory">1c73f08993ca8210657dfde08bba10ff</sys_scope>
-        <sys_update_name>sc_cat_item_e60cbdda93020210657dfde08bba1094</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-05-12 04:13:22</sys_updated_on>
+        <sys_update_name>sc_cat_item_3e0ccc7693ce4210657dfde08bba10eb</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-05-12 17:49:21</sys_updated_on>
         <taxonomy_topic/>
         <template/>
         <template_manager_roles/>
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>19</version>
+        <version>13</version>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
         <visible_standalone>true</visible_standalone>
         <workflow/>
     </sc_cat_item>
-    <sys_translated_text action="delete_multiple" query="documentkey=e60cbdda93020210657dfde08bba1094"/>
-    <fx_price action="delete_multiple" query="id=e60cbdda93020210657dfde08bba1094"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=3e0ccc7693ce4210657dfde08bba10eb"/>
+    <fx_price action="delete_multiple" query="id=3e0ccc7693ce4210657dfde08bba10eb"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price</field>
-        <id>e60cbdda93020210657dfde08bba1094</id>
+        <id>3e0ccc7693ce4210657dfde08bba10eb</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-05-11 00:58:51</sys_created_on>
-        <sys_id>d0529a9693820210657dfde08bba10f1</sys_id>
+        <sys_created_on>2024-05-12 04:32:59</sys_created_on>
+        <sys_id>e6ec08b693ce4210657dfde08bba1008</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-05-11 00:58:51</sys_updated_on>
+        <sys_updated_on>2024-05-12 04:32:59</sys_updated_on>
         <table>sc_cat_item</table>
         <type>calculated</type>
     </fx_price>
@@ -108,16 +108,16 @@
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>recurring_price</field>
-        <id>e60cbdda93020210657dfde08bba1094</id>
+        <id>3e0ccc7693ce4210657dfde08bba10eb</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-05-11 00:58:51</sys_created_on>
-        <sys_id>98529a9693820210657dfde08bba10f2</sys_id>
+        <sys_created_on>2024-05-12 04:32:59</sys_created_on>
+        <sys_id>a6ec08b693ce4210657dfde08bba1009</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-05-11 00:58:51</sys_updated_on>
+        <sys_updated_on>2024-05-12 04:32:59</sys_updated_on>
         <table>sc_cat_item</table>
         <type>calculated</type>
     </fx_price>
